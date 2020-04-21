@@ -1,2 +1,2 @@
-# SwordForOffer-C-
-剑指Offer C++ 描述
+# SwordForOffer
+剑指Offer C++ 和 Java 描述
