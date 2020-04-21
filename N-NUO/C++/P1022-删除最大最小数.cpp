@@ -1,3 +1,5 @@
+/*
+题目：删除最大最小数*/ 
 #include<iostream>
 using namespace std;
 int main()
@@ -14,7 +16,7 @@ int main()
 		if (num[i] < num[Min])
 			Min = i;
 	}
-	bool flag = false;//控制输出格式 
+	bool flag = false;
 	for (int i = 0; i < n; i++) {
 		if (i != Max && i != Min) {
 			if (flag)
