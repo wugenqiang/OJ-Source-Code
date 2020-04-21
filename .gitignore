@@ -1,6 +1,2 @@
-LeetCode/C/*.exe
-LeetCode/C++/*.exe
-N-NUO/C/*.exe
-N-NUO/C++/*.exe
-SwordForOffer/C/*.exe
-SwordForOffer/C++/*.exe
+*/C/*.exe
+*/C++/*.exe
